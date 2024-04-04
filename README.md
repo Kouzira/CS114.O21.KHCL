@@ -12,7 +12,7 @@
 | Nguyễn Vũ Hoàng Long   | 21520058       | CS114.O21.KHCL      |
 | Lý Ngọc Thành Trung   | 21521591       | CS114.O21.KHCL      |
 
-# [Assignments]"Assignments")
+# [Assignments])
 
 - [x] [Week 1]
 - [x] [Week 2]
